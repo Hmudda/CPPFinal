@@ -1,0 +1,18 @@
+﻿D:\Visual\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  Final Project Second Year.cpp
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(43,32): warning C4101: 'bottom': unreferenced local variable
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(43,14): warning C4101: 'left': unreferenced local variable
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(43,27): warning C4101: 'top': unreferenced local variable
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(43,20): warning C4101: 'right': unreferenced local variable
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(925,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(2021,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(2038,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(1950,10): warning C4102: 'beach': unreferenced label
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(2297,9): warning C4101: 'shipNum1': unreferenced local variable
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(2851,17): warning C4101: 'shipGuessNum': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\JordanALT\source\repos\Final Project Second Year\Final Project Second Year\Final Project Second Year.cpp(339): warning C4715: 'SerpentBoss::getAlpha': not all control paths return a value
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Final Project Second Year.vcxproj -> C:\Users\JordanALT\source\repos\Final Project Second Year\Release\Final Project Second Year.exe
