@@ -3,7 +3,7 @@
 VIDEO LINK
 vvvvvvvvvv
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/T51Qr1YIjSw/0.jpg)](http://www.youtube.com/watch?v=T51Qr1YIjSw "Video Title")
+[![IMAGE ALT TEXT](/play.png)](http://www.youtube.com/watch?v=T51Qr1YIjSw "Video Title")
 
 
 
